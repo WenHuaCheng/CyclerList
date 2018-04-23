@@ -7,6 +7,8 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 import java.util.List;
+//
+//eeeeeeeee
 
 public class MainActivity extends AppCompatActivity {
 private List<Fruit> fruit=new ArrayList<Fruit>();
